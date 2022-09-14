@@ -11,8 +11,7 @@ The Note Taker application was created for a user to be able to create notes, re
 
 - Make sure to download Express.js by entering npm install express in your terminal in the root directory of the project after downloading.
 
-- Run 
-* node server.js or node server in your terminal to launch the application.
+- Run node server.js or node server in your terminal to launch the application.
 
 
 
@@ -28,7 +27,8 @@ Project created using:
 - Heroku
 
 ## Links 
-- [GitHub Repository](https://github.com/Riftsail/Note-Taker.git)
+- [GitHub URL](https://github.com/Riftsail/Note-Taker.git)
+- [GitHub Repository](git@github.com:Riftsail/Note-Taker.git)
 
 ## License
 
